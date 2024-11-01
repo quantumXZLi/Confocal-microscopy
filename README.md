@@ -1,1 +1,1 @@
-Some simple GUIs for quick plotting of figures, laser spot beam radius fitting and multiple RF electronics control for quantum optics experiments
+Some simple GUIs for quick plotting of figures, laser spot beam radius fitting and multiple RF electronics control for quantum optics experiments.  A screenshot of what each interface looks like is included.
